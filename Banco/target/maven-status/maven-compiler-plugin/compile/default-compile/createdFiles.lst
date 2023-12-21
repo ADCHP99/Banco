@@ -1,0 +1,4 @@
+com\judas\modelo\domain\Cliente.class
+com\judas\modelo\domain\CuentaBancaria.class
+com\judas\modelo\domain\Transaccion.class
+com\judas\banco\Banco.class
